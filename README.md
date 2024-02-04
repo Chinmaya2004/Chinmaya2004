@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... C programming
 - 💞️ I’m looking to collaborate on ... 🤔
 - 📫 How to reach me ... insta id - _its_chinmaya_
-- 😄 Pronouns: ... He
+- 😄 Pronouns: ... He/Him
 
 
 <!---
